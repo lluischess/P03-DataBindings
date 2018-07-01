@@ -1,0 +1,11 @@
+C:\Users\lluis\Source\Repos\Visualbasic\P03DataB\P03DataB\bin\Debug\P03DataB.exe.config
+C:\Users\lluis\Source\Repos\Visualbasic\P03DataB\P03DataB\bin\Debug\P03DataB.exe
+C:\Users\lluis\Source\Repos\Visualbasic\P03DataB\P03DataB\bin\Debug\P03DataB.pdb
+C:\Users\lluis\Source\Repos\Visualbasic\P03DataB\P03DataB\bin\Debug\P03DataB.xml
+C:\Users\lluis\Source\Repos\Visualbasic\P03DataB\P03DataB\obj\Debug\P03DataB.vbprojResolveAssemblyReference.cache
+C:\Users\lluis\Source\Repos\Visualbasic\P03DataB\P03DataB\obj\Debug\P03DataB.Form1.resources
+C:\Users\lluis\Source\Repos\Visualbasic\P03DataB\P03DataB\obj\Debug\P03DataB.Resources.resources
+C:\Users\lluis\Source\Repos\Visualbasic\P03DataB\P03DataB\obj\Debug\P03DataB.vbproj.GenerateResource.Cache
+C:\Users\lluis\Source\Repos\Visualbasic\P03DataB\P03DataB\obj\Debug\P03DataB.exe
+C:\Users\lluis\Source\Repos\Visualbasic\P03DataB\P03DataB\obj\Debug\P03DataB.xml
+C:\Users\lluis\Source\Repos\Visualbasic\P03DataB\P03DataB\obj\Debug\P03DataB.pdb
